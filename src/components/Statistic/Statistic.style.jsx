@@ -25,6 +25,9 @@ export const ListInfo = styled.li`
     height: 46px;
     align-items: center;
     border-radius: 5px;
+    &:last-child {
+    margin: 0;
+  }
 }
 `;
 

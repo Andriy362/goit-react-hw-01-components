@@ -41,6 +41,9 @@ export const ListItem = styled.li`
   // flex-direction: column;
   margin-left: 12px;
   // align-items: center;
+  &:first-of-type {
+    margin: 0;
+  }
 `;
 export const ItemSpan = styled.span`
   margin-bottom: 8px;
