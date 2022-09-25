@@ -8,6 +8,7 @@ import {
   ItemInfo,
   ItemInfoName,
 } from 'components/Profile/Profile.style';
+
 export const Profile = ({ username, tag, location, avatar, stats }) => {
   return (
     <Container>
