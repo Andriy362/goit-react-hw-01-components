@@ -4,8 +4,8 @@ import user from '../components/Profile/user.json';
 import { Statistics } from './Statistic/Statistic';
 import statist from '../components/Statistic/data.json';
 
-import friends from '../components/FriendList/friends.json';
 import { FriendList } from './FriendList/FriendList';
+import friends from '../components/FriendList/friends.json';
 
 import { TransactionHistory } from './Transactions/Transactions';
 import transactions from '../components/Transactions/transactions.json';
