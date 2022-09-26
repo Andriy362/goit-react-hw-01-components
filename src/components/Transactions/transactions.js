@@ -8,7 +8,7 @@ import {
   TableBody,
   TableBodyTd,
   TableBodyTr,
-} from 'components/Transactions/transactions.style';
+} from 'components/Transactions/Transactions.style';
 export const TransactionHistory = ({ items }) => {
   return (
     <Table>
