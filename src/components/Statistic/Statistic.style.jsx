@@ -23,7 +23,7 @@ export const ListInfo = styled.li`
   flex-direction: column;
   margin-right: 15px;
     margin-right: 10px;
-    background-color: ${props => getRandomHexColor()};
+    background-color: ${color => getRandomHexColor()};
     width: 60px;
     height: 46px;
     align-items: center;
