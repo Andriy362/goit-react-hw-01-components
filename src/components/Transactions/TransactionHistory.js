@@ -31,6 +31,7 @@ export const TransactionHistory = ({ items }) => {
     </Table>
   );
 };
+
 TransactionHistory.propTypes = {
   items: PropTypes.arrayOf(
     PropTypes.exact({
